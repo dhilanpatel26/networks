@@ -1,2 +1,8 @@
 # Computer Networks
-Dhilan Patel, Johns Hopkins University CE/CS 2026
+- Sockets
+- TCP
+- HTTP Proxy
+- Router
+  - Control plane
+  - Data plane
+- WAN measurement
